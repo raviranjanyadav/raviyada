@@ -1,0 +1,86 @@
+  .header{
+	  width:100%;
+	  background-color:black;
+  }
+  .download{ 
+   margin-top: 14px;
+  }
+  h3.number{
+	      margin-left: 24px;
+		  color:yellow;
+  }
+  h4.call{
+	  margin-top: -59px;
+      margin-left: 23px;
+	  color:white;
+  }
+  .backgroundimage{
+	border: 2px solid black;
+    padding: 25px;
+    background: url(531253600-612x612.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+	background-position: center;
+  }
+  .ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #e8e5e5;
+}
+.li {
+    float: left;
+}
+.li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 12px 39px;
+    text-decoration: none;
+}
+  h2.Memorial{
+	  color:white;
+  }
+  h4.funeral{
+	      margin-top: -32px;
+          padding-bottom: -172px;
+          font-size: 18px;
+          color: white;
+  }
+ 
+ 
+ .fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+ 
